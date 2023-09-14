@@ -2,7 +2,7 @@
 
 🐌 [배포 사이트 천천히 가기](https://hh99-react-exam-3.vercel.app/)
 
-![ezgif com-video-to-gif (5)](https://github.com/zidoopal/hh99-react-exam-3/assets/131226548/c32e780b-251f-4f02-bbb1-1fcb753634b4)
+![ezgif com-gif-maker](https://github.com/zidoopal/hh99-react-exam-3/assets/131226548/708d6b4e-3d37-4eb5-896d-f2a5d291742f)
 
 ### 💡 features & Requirement : 구현 기능 & 요구 사항
 
