@@ -36,10 +36,9 @@ const todosSlice = createSlice({
         state.list = state.list.concat(action.payload);
       })
       .addCase(__deleteTodo.fulfilled, (state, action) => {
-        state.list = state.list.filter((todo) => todo.id !== action.payload);
+        state.list = state.list.filter((todo) => todo.id !== action.payload.id);
       });
   },
 });
 
-export const { addTodo, deleteTodo } = todosSlice.actions;
 export default todosSlice.reducer;
